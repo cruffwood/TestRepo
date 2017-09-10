@@ -1,5 +1,5 @@
 ---
-title: "Untitled"
+title: "My First rmarkdown!"
 author: "Claudia Woodruff"
 date: "September 4, 2017"
 output: 
